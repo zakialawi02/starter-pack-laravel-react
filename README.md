@@ -132,6 +132,17 @@ Access the Application: Open your browser and go to http://localhost:8000.
 -   User Registration: You can register a new user through the authentication forms.
 -   Profile Editing: Once logged in, navigate to the profile page to update your information.
 -   Dashboard: Access the dashboard to view logged/dashboard for displaying any application information.
+-   Login: If you have already registered, you can use the login form to access the application.
+-   Login with dummy account: You can use the following credentials to login without registration:
+    **role: user**
+
+    -   Email: `user@mail.com`
+    -   Password: `user`
+
+    **role: admin**
+
+    -   Email: `admin@mail.com`
+    -   Password: `admin`
 
 ### Folder Structure
 
